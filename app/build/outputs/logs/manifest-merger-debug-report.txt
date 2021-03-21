@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
-INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
-INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
-INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
+INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
+INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
+INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
 MERGED from [com.android.support:design:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/33228fa92b2d4ec211b1b19154136a50/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3fa261442517bbc80fb0c33b93328bea/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/8cda9f231f5235b11001ebdef5e78a2b/AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mansideep/.gr
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/54ded0114964302394ec9dc83598a161/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/231cc7fee831ef857c51dff744319d06/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/c99f3450ec5b158722f5ebef54c80acc/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
-INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
-INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
+INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
+INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
+INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
 	package
 		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:5:5-47
 		INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
 		INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-26:12
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:1-28:12
 		INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:4:11-69
 application
-ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:7:5-24:19
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:7:5-26:19
 MERGED from [com.android.support:design:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/33228fa92b2d4ec211b1b19154136a50/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/33228fa92b2d4ec211b1b19154136a50/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mansideep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3fa261442517bbc80fb0c33b93328bea/AndroidManifest.xml:25:5-29:19
@@ -78,23 +78,31 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mansideep/.gradle/cach
 	android:theme
 		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.example.android.recyclerview.MainActivity
-ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:14:9-23:20
-	android:label
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:16:13-45
-	android:theme
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:17:13-56
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.android.recyclerview.RecipeMethodActivity
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:21:9-25:20
+	android:parentActivityName
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:21:19-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:23:13-24:48
+	android:value
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:24:17-46
+	android:name
+		ADDED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml:23:24-70
 uses-sdk
 INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/AndroidManifest.xml
