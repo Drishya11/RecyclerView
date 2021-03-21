@@ -1,1 +1,1 @@
-![](app/src/main/res/drawable/recyclerviewchallenge.gif)
+![](app/src/main/res/drawable/recyclerviewhw.gif)
