@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 21 09:11:47 NPT 2021
+#Sun Mar 21 09:26:17 NPT 2021
 2.base=/Users/mansideep/AndroidStudioProjects/RecyclerView/app/build/intermediates/transforms/dexMerger/debug/16
 5.set=DEX
 0.path=classes.dex

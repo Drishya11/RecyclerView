@@ -488,6 +488,10 @@
         "source": "/Users/mansideep/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/3fa261442517bbc80fb0c33b93328bea/res/color/abc_hint_foreground_material_light.xml"
     },
     {
+        "merged": "/Users/mansideep/AndroidStudioProjects/RecyclerView/app/build/intermediates/res/merged/debug/drawable_recyclerview.gif.flat",
+        "source": "/Users/mansideep/AndroidStudioProjects/RecyclerView/app/src/main/res/drawable/recyclerview.gif"
+    },
+    {
         "merged": "/Users/mansideep/AndroidStudioProjects/RecyclerView/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
         "source": "/Users/mansideep/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/33228fa92b2d4ec211b1b19154136a50/res/anim/design_snackbar_in.xml"
     },

@@ -1,5 +1,6 @@
 package com.example.android.recyclerview;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
@@ -11,6 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 
 import java.util.LinkedList;
+import java.util.Objects;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -42,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
             mWordList.addLast("Word " + i);
         }
 
-        mRecyclerView = findViewById(R.id.recyclerview);
+        mRecyclerView = findViewById(R.id.recyclerView);
         mAdapter = new WordListAdapter(this, mWordList);
         mRecyclerView.setAdapter(mAdapter);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
@@ -56,15 +58,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    @SuppressLint("NewApi")
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
-
-        if (id == R.id.action_settings) {
+        //noinspection SimplifiableIfStatement
+        if (id == R.id.action_reset) {
+            mWordList.clear();
+            for (int i = 1; i < 21; i++) {
+                mWordList.add("Word " + i);
+            }
+            Objects.requireNonNull(mRecyclerView.getAdapter()).notifyDataSetChanged();
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 }
